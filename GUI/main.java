@@ -153,7 +153,7 @@ class SporcuTakipGUI extends JFrame {
     public static class DByonetimi {
         private static final String URL = "jdbc:mysql://localhost:3306/SporcuVeritabani";
         private static final String USER = "root";
-        private static final String PASSWORD = "Servet.alav2001";
+        private static final String PASSWORD = "***********";
 
         public Connection baglantiKur() {
             Connection connection = null;
